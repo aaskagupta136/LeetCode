@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/aaskagupta136/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/aaskagupta136/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/aaskagupta136/LeetCode/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aaskagupta136/LeetCode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/aaskagupta136/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
